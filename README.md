@@ -27,10 +27,11 @@ as validated by **InBody composition scans**.
 
 ## Correlation Matrix
 
-The correlation matrix below visualizes the relationships between key biometric variables. 
+The correlation matrix below visualizes the relationships between key biometric variables.  
 This result was generated using the R script (`whoop_analysis.R`) and serves as an output of the analysis:
 
-[Screenshot 2025-03-18 at 10 42 44 AM](https://github.com/user-attachments/assets/374f53bb-dcb9-4324-b8ea-e5b3dcc125b3)
+### 📊 Correlation Matrix Visualization
+<img width="613" alt="Screenshot 2025-03-18 at 10 17 57 AM" src="https://github.com/user-attachments/assets/196126f4-d2ed-49c4-80fc-ceaad65ff173" />
 
 
 ### Interpretation:
